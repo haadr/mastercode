@@ -111,3 +111,8 @@ optional arguments:
   --save                save figure to file
   --show                show figure
 ```
+
+### Screenshots 
+
+![Visualizer](https://gitlab.com/haadr/mastercode/uploads/ecac4be3a3125db4cdf0b31b7ea0853a/visualizer_example.png)
+![Confusion matrix](https://gitlab.com/haadr/mastercode/uploads/66aef24e7961972d0b2a2a969481f7da/confusion_matrix.png)
